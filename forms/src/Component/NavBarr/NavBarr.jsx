@@ -1,5 +1,5 @@
 import React from 'react'
-import './Navbarr.css'
+import './NavBarr.css'
 import { Navbar, Nav, Container } from 'react-bootstrap'
 import { VscSignIn } from "react-icons/vsc"
 import { MdLogin } from "react-icons/md"
