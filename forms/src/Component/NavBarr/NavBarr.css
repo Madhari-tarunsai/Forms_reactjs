@@ -1,0 +1,22 @@
+#navbarScroll{
+    flex-grow: 0 !important;
+}
+.nav-links {
+  display: flex;
+  gap: 40px;
+}
+
+.nav-link-custom {
+  text-decoration: none;
+  color: #000;
+  font-weight: 500;
+  transition: color 0.3s;
+  border: none;
+  border-radius: 12px;
+  background-color: antiquewhite;
+  padding: 5px;
+}
+
+.nav-link-custom:hover {
+  color: #007bff; /* Bootstrap primary color */
+}
